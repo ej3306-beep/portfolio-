@@ -1,0 +1,6 @@
+{
+  "name": "Kim Eunji Portfolio",
+  "description": "현대적이고 우아한 디자인의 김은지 CEO 1페이지 포트폴리오. 무용(발레/현대무용)과 일상 라이프스타일을 연결하는 브랜드 LIVRHYCO의 무드와 경험을 담은 반응형 인터랙티브 웹 포트폴리오.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
