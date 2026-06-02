@@ -1,6 +1,5 @@
 {
   "name": "Kim Eunji Portfolio",
-  "description": "현대적이고 우아한 디자인의 김은지 CEO 1페이지 포트폴리오. 무용(발레/현대무용)과 일상 라이프스타일을 연결하는 브랜드 LIVRHYCO의 무드와 경험을 담은 반응형 인터랙티브 웹 포트폴리오.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "description": "브랜드·콘텐츠 기획자 김은지의 단일 페이지 포트폴리오. Ivory & Sage 디자인 시스템, NGO·SNS·SEO 실험 경험을 스토리텔링·성과 중심으로 전달합니다.",
+  "requestFramePermissions": []
 }
