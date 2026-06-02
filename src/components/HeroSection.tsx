@@ -33,7 +33,7 @@ export default function HeroSection() {
           className="space-y-4"
         >
           <h1 className="text-5xl sm:text-7xl md:text-9xl tracking-tight font-display font-light leading-[0.9] text-[#1C1C1C] select-none">
-            Dance <span className="font-serif italic font-normal text-stone-400 font-serif">+</span> <br />
+            Movement <span className="font-serif italic font-normal text-stone-400 font-serif">+</span> <br />
             Lifestyle
           </h1>
         </motion.div>
