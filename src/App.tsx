@@ -8,14 +8,19 @@ import ContactSection from "./components/ContactSection";
 
 export default function App() {
   return (
-    <div className="premium-gradient min-h-screen selection:bg-[#E6D5CB] selection:text-[#1C1C1C] overflow-x-hidden antialiased">
-      {/* Absolute visual structural frames */}
-      <div className="fixed inset-y-0 left-6 right-6 pointer-events-none border-x border-[#D9C3B0]/15 z-40 hidden md:block" />
-      
-      {/* Minimal Header Navigation */}
+    <div className="brand-backdrop min-h-screen overflow-x-hidden">
+      <a href="#main" className="skip-link">
+        본문으로 건너뛰기
+      </a>
+
+      <div
+        className="fixed inset-y-0 left-6 right-6 pointer-events-none border-x border-outline/20 z-40 hidden md:block"
+        aria-hidden="true"
+      />
+
       <Navigation />
 
-      <main className="relative">
+      <main id="main" className="relative">
         {/* Landing Section with massive luxury typography */}
         <HeroSection />
 
